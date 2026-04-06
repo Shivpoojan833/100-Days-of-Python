@@ -1,0 +1,7 @@
+print("Hello World")
+print(51)
+print("=========")
+print("=       =")
+print("=       =")
+print("=       =")
+print("=========") 
