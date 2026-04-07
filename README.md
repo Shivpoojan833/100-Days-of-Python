@@ -138,12 +138,6 @@ Consistency > Perfection
 This journey is about improving **1% every day**.
 
 --- -->
-
-
-
-
-Here’s an upgraded **portfolio-grade README.md** with badges, stats, and a cleaner structure. Just copy–paste it.
-
 ---
 
 # 🐍 100 Days of Python Challenge
