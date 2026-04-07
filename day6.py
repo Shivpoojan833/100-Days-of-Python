@@ -14,3 +14,7 @@ print("The type of a is ",type(a))
 print("The type of b is ",type(b))
 print("The type of c is ",type(c))
 print("The type of d is ",type(d))
+
+#Sequenced Data
+list1 = [1,2,3,["apple","kiwi","Lichi"],4]
+print(list1)
