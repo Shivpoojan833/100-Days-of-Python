@@ -190,7 +190,7 @@ Day100.py
 ## 📊 Progress Tracker
 
 ```
-Progress: █████████░░░░░░░░░░ 45%
+![Progress](https://progress-bar.dev/45/?title=Progress&width=500)
 ```
 
 > Update this manually OR tell me — I can automate it for you.
