@@ -278,7 +278,7 @@ python Day1.py
 ## 🤝 Connect With Me
 
 * GitHub: [https://github.com/Shivpoojan833](https://github.com/Shivpoojan833)
-* LinkedIn: ([Add your link](https://www.linkedin.com/in/shivpoojan-tiwari/))
+* LinkedIn: ([Connect with me on LinkedIn](https://www.linkedin.com/in/shivpoojan-tiwari/))
 
 ---
 
