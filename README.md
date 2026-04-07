@@ -187,16 +187,6 @@ Day100.py
 
 ---
 
-## 📊 Progress Tracker
-
-![Progress](https://progress-bar.dev/45/?title=Progress&width=600&color=00bfff)
-
-![Completed](https://img.shields.io/badge/Days%20Completed-45%2F100-blueviolet?style=for-the-badge)
-![Challenge](https://img.shields.io/badge/Challenge-100DaysOfPython-orange?style=for-the-badge)
-> Update this manually OR tell me — I can automate it for you.
-
----
-
 ## 📅 Daily Progress Table
 
 | Day   | Topic                  | Status |
