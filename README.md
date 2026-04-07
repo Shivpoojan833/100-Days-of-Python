@@ -152,8 +152,8 @@ Here’s an upgraded **portfolio-grade README.md** with badges, stats, and a cle
   <img src="https://img.shields.io/badge/Challenge-100%20Days%20of%20Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/your-username/100-Days-of-Python?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/your-username/100-Days-of-Python?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Shivpoojan833/100-Days-of-Python?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Shivpoojan833/100-Days-of-Python?style=for-the-badge" />
 </p>
 
 ---
@@ -234,8 +234,8 @@ Progress: █████████░░░░░░░░░░ 45%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivpoojan833&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpoojan833&theme=tokyonight" />
 </p>
 
 ---
@@ -243,7 +243,7 @@ Progress: █████████░░░░░░░░░░ 45%
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivpoojan833&theme=tokyo-night" />
 </p>
 
 ---
