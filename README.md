@@ -1,4 +1,4 @@
----
+<!-- ---
 
 # 🐍 100 Days of Python Challenge
 
@@ -136,5 +136,164 @@ If you find this helpful:
 Consistency > Perfection
 
 This journey is about improving **1% every day**.
+
+--- -->
+
+
+
+
+Here’s an upgraded **portfolio-grade README.md** with badges, stats, and a cleaner structure. Just copy–paste it.
+
+---
+
+# 🐍 100 Days of Python Challenge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Challenge-100%20Days%20of%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/your-username/100-Days-of-Python?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/your-username/100-Days-of-Python?style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Overview
+
+This repository documents my **100 Days of Python** journey where I practice coding daily and strengthen my problem-solving skills.
+
+> Each file represents one day of learning with **code + notes embedded as comments**.
+
+---
+
+## 🚀 Goals
+
+* Master Python fundamentals
+* Build strong problem-solving ability
+* Prepare for **Software Development (SDE)** roles
+* Create a consistent coding habit
+
+---
+
+## 📂 Repository Structure
+
+```
+Day1.py
+Day2.py
+Day3.py
+...
+Day100.py
+```
+
+✔ Each file includes:
+
+* Concepts (inside comments)
+* Practice code
+* Examples
+
+---
+
+## 📊 Progress Tracker
+
+```
+Progress: █████████░░░░░░░░░░ 45%
+```
+
+> Update this manually OR tell me — I can automate it for you.
+
+---
+
+## 📅 Daily Progress Table
+
+| Day   | Topic                  | Status |
+| ----- | ---------------------- | ------ |
+| Day 1 | Python Basics          | ✅      |
+| Day 2 | Variables & Data Types | ✅      |
+| Day 3 | Conditionals           | ✅      |
+| Day 4 | Loops                  | ✅      |
+| Day 5 | Functions              | ✅      |
+| ...   | ...                    | 🚧     |
+
+---
+
+## 🧠 Topics Covered
+
+* Python Basics
+* Data Types
+* Control Flow
+* Functions
+* Data Structures
+* File Handling
+* Exception Handling
+* OOP
+* Modules & Libraries
+* Problem Solving
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+* Python 🐍
+* Git & GitHub
+* VS Code
+
+---
+
+## ⚡ How to Run
+
+```bash
+git clone https://github.com/your-username/100-Days-of-Python.git
+cd 100-Days-of-Python
+python Day1.py
+```
+
+---
+
+## 🎯 Highlights
+
+* 📌 Daily consistency
+* 📌 Code + notes in one place
+* 📌 Structured learning approach
+* 📌 Interview-focused preparation
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: [https://github.com/Shivpoojan833](https://github.com/Shivpoojan833)
+* LinkedIn: ([Add your link](https://www.linkedin.com/in/shivpoojan-tiwari/))
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
+
+---
+
+## 📢 Final Thought
+
+> “Consistency builds mastery.”
 
 ---
