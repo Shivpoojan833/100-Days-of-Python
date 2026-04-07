@@ -17,4 +17,7 @@ print("The type of d is ",type(d))
 
 #Sequenced Data
 list1 = [1,2,3,["apple","kiwi","Lichi"],4]
-print(list1)
+print(list1) #We can include data elements of different data types and we can change the list items at any time (mutable)
+
+tuple1=("lion","tiger","sparrow","giraffe")
+print(tuple1)
